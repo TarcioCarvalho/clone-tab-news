@@ -1,7 +1,7 @@
 export default function Home () {
     return (
         <>
-            <h1>O medo de arriscar nos impede de conseguirmos grandes oportunidades</h1>
+            <h1>O medo de errar retira oportunidades!</h1>
         </>
     )
 }
